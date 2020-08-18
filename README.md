@@ -35,6 +35,7 @@ sebuah aplikasi”**.
 
 **E-book ini dibuat sesederhana mungkin dengan script php yang juga sederhana, agar kita bisa berfokus pada pembahasan CRUD, salah satu hal yang kita buat serderhana adalah kita akan langsung membuat form tanpa ada pembuka dan pentutup HTML**
 
+
 <div align="right">
 	<a href="https://wegodev.com">
 		<img  src="https://www.wegodev.com/asset/images/logo.png">
