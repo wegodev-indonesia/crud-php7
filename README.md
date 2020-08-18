@@ -15,7 +15,7 @@ Jika kamu perhatikan hampir semua program pasti memiliki crud, dan
 kalau saya boleh berpendapat crud adalah **“salah satu fondasi utama dari
 sebuah aplikasi”**.
 
-**E-book ini dibuat sesederhana mungkin dengan script php yang juga sederhana, agar kita bisa berfokus pada pembahasan CRUD, salah satu hal yang kita buat serderhana adalah kita akan langsung membuat form tanpa ada pembuka dan pentutup HTML**
+**Download Ebook :** [Mengenal basic programming PHP melalui CRUD](https://drive.google.com/file/d/1DQAg1ZnJD6Np-AlDAbVnzhYL1h3knSCX/view?usp=sharing)
 
 ## Ebook ini untuk :
 * Pemula
@@ -32,7 +32,9 @@ sebuah aplikasi”**.
 * Pembaca mengerti cara mengubah data di dalam database MySQL melalui PHP.
 * Pembaca mengerti cara menghapus data di dalam database MySQL melalui PHP.
 
-**Download E-book :** [Mengenal basic programming PHP melalui CRUD](https://drive.google.com/file/d/1DQAg1ZnJD6Np-AlDAbVnzhYL1h3knSCX/view?usp=sharing)
+
+**E-book ini dibuat sesederhana mungkin dengan script php yang juga sederhana, agar kita bisa berfokus pada pembahasan CRUD, salah satu hal yang kita buat serderhana adalah kita akan langsung membuat form tanpa ada pembuka dan pentutup HTML**
+
 
 <div align="right">
 	<a href="https://wegodev.com">
